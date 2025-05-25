@@ -1,0 +1,15 @@
+timestamp,cuisine,restaurant,budget,dietary,distance_km,challenge
+2025-05-25T12:19:14.861128,Noodles,Ippudo,any,none,2.0,Order something you have never tried
+2025-05-25T12:40:42.951101,Korean BBQ,Arisun,any,none,3.0,Order something you have never tried
+2025-05-25T12:40:49.938765,Sushi,Sushi Train,any,none,3.0,Order something you have never tried
+2025-05-25T12:43:34.230694,Tacos,Mad Mex,any,none,3.0,Order something you have never tried
+2025-05-25T12:48:57.757518,Burger,McDonald's,cheap,none,2.0,Order the most expensive dish
+2025-05-25T12:58:46.810276,Pizza,Pizza Hut,any,none,2.0,Order for someone else
+2025-05-25T13:07:22.141262,Tacos,Mad Mex,any,none,2.0,Order something you have never tried
+2025-05-25T13:07:39.077799,Noodles,Ippudo,any,none,2.0,Order for someone else
+2025-05-25T13:25:44.251137,Pizza,Pizza Hut,any,none,6.0,Order the most expensive dish
+2025-05-25T13:25:47.865261,Sushi,Sushi Train,any,none,6.0,Order the most expensive dish
+2025-05-25T13:26:11.249319,Burger,Grill'd,any,none,6.0,Order for someone else
+2025-05-25T14:14:54.355653,Pizza,Domino's,any,halal,3.0,Order for someone else
+2025-05-25T14:19:29.273464,Noodles,Ippudo,any,none,3.0,Order something you have never tried
+2025-05-25T14:33:49.270836,Burger,Five Guys,any,none,3.0,Order something you have never tried

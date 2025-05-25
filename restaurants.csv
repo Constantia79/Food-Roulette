@@ -1,0 +1,21 @@
+cuisine,restaurant,price_range,dietary,distance_km
+Sushi,Sushi Train,cheap,none,0.5
+Sushi,Sushi Hub,medium,vegetarian,1.2
+Sushi,Makoto,expensive,halal,2.5
+Burger,Grill'd,medium,none,1.0
+Burger,Five Guys,expensive,none,1.8
+Burger,McDonald's,cheap,none,0.3
+Burger,Kosher Burger,expensive,kosher,2.0
+Noodles,Ramen Zundo,medium,none,0.7
+Noodles,Din Tai Fung,expensive,none,2.0
+Noodles,Ippudo,medium,none,1.5
+Pizza,Pizza Hut,cheap,none,0.4
+Pizza,Manoosh,medium,vegetarian,1.9
+Pizza,Domino's,cheap,halal,0.6
+Pizza,Maccabi Pizzeria,medium,kosher,1.1
+Tacos,Guzman y Gomez,medium,none,0.9
+Tacos,Mad Mex,cheap,none,1.4
+Tacos,Beach Burrito,medium,vegetarian,2.2
+Korean BBQ,678 Korean BBQ,expensive,none,1.7
+Korean BBQ,Arisun,medium,none,2.3
+Korean BBQ,Bornga,expensive,none,3.0
